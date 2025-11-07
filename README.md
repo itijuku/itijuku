@@ -1,5 +1,5 @@
 # 👋hello!
-## About me
+## ・About me
 I'm a 14-year-old student from Japen.
 I like javascript and python.
 
